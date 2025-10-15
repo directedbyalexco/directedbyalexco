@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alex — Creative Technologist  
+# 👋 Hi, I'm Diana — Software Engineer • Designer • Founder @ SUPERMRKT
 *Building tools for creators, farmers, and independent builders.*
 ```
                _____
@@ -16,7 +16,7 @@
   /`--..__/                  ███████╗██║  ██║██║     ██╗
   )       )                  ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
  /`--..__/
-(        )    🎬 Creative Technologist
+(        )    🎬 
  `------'     >>> alex@directedbyalex.co <
 ```
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=directedbyalex.directedbyalex)
