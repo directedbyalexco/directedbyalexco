@@ -133,9 +133,9 @@ A modular creative ecosystem built for scale and individuality.
 ---
 
 ### 🌐 **Connect**
-- **Email:** [alex@directedbyalex.co](mailto:alex@directedbyalex.co)  
-- **Website:** [directedbyalex.co](https://directedbyalex.co)  
-- **Instagram:** [@directed.by.alex](https://instagram.com/directed.by.alex)
+- **Email:** [redacted](mailto:hello@directedbymayhem.com)  
+- **Website:** [redacted](https://directedbymayhem.com)  
+- **Instagram:** [redacted](https://instagram.com/directedbymayhem)
 
 ---
 🪶 *Building scalable platforms, creative ecosystems, and tools that merge design with technology. Always learning. Always building. Let's connect!*
